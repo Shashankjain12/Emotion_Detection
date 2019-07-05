@@ -1,4 +1,4 @@
-<h1 ailgn="center"> Emotion_Detection</h1>
+<h1 align="center"> Emotion_Detection</h1>
 
 **Wondering how to do Emotion Detection , So you are at the right place. :)**
 
@@ -16,7 +16,7 @@ Wondering What I had done to detect emotions.. :smiley:
 
 Let me give You everything what you might need behind it so that you can create your own classifier using this what i will show you next :smiley:
 
-
+<vid src="/Videos/emotion_det.mp4"></vid>
 
 
 
