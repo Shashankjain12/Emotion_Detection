@@ -14,7 +14,7 @@ We are basically classifying person in 7 different types of classifiers to detec
 
 Wondering What I had done to detect emotions.. :smiley:
 
-<div align="center">![](https://media.giphy.com/media/fYeirNjmqJeQH8wZkT/giphy.gif)</div>
+![](https://media.giphy.com/media/fYeirNjmqJeQH8wZkT/giphy.gif)
 
 Let me give You everything what you might need behind it so that you can create your own classifier using this what i will show you next :smiley:
 
